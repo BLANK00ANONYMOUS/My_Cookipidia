@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061755088945",
+    "project_id": "cookipidia",
+    "storage_bucket": "cookipidia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061755088945:android:f5d60d28fc8c53a3e0a510",
+        "android_client_info": {
+          "package_name": "com.example.cookipidia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061755088945-r2ltqfmr6pb930a7v32n7bj56dcgmfj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtltes9oKy_-ccMiuxfcFyfcVsJSGg_Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061755088945-r2ltqfmr6pb930a7v32n7bj56dcgmfj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
